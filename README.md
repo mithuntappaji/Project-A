@@ -1,2 +1,2 @@
 # Project-A
-This is the demo project for script demonstrations
+This is the demo readme file
